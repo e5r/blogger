@@ -11,6 +11,8 @@
         "require-dir": "~0.3.0",
         "run-sequence": "~1.2.1",
         "typescript": "~2.0.0",
-        "gulp-typescript": "~3.0.1"
+        "gulp-typescript": "~3.0.1",
+        "gulp-shell": "~0.5.2",
+        "typings": "~1.4.0"
     }
 }

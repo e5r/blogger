@@ -8,6 +8,7 @@ var gulp = require('gulp'),
 
     log = gutil.log,
     tasks = [
+        'build.typings',
         'build.tsc'
     ];
 
