@@ -3,6 +3,15 @@ build/
 dist/
 node_modules/
 
+# Build files
+obj/
+bin/
+*.lock.json
+
+# IDE files
+.vscode/
+.vs/
+
 # Extra Package Manager
 #bower_components/
 #packages/
